@@ -1,0 +1,15 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Jupyter virtual documents
+.virtual_documents/
+
+# Anaconda project database
+anaconda_projects/db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local secrets
+.env
